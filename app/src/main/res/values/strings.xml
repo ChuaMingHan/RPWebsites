@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">RP Websites</string>
+    <string name="subcategory">Sub-Category</string>
+
+    <string name="homepage">"https://www.rp.edu.sg/"</string>
+    <string name="studentlife">"https://www.rp.edu.sg/student-life"</string>
+    <string name="DMSD">"https://www.rp.edu.sg/soi/full-time-diplomas/details/r47"</string>
+    <string name="DIT">"https://www.rp.edu.sg/soi/full-time-diplomas/details/r12"</string>
+    <string name="cat">Category</string>
+    <string name="subcat">Sub-Category</string>
+
+    <string-array name="category">
+        <item>RP</item>
+        <item>SOI</item>
+    </string-array>
+
+    <string-array name="subcategory1">
+        <item>Homepage</item>
+        <item>Student Life</item>
+    </string-array>
+
+    <string-array name="subcategory2">
+        <item>DMSD</item>
+        <item>DIT</item>
+    </string-array>
+
+</resources>
